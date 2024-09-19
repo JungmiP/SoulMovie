@@ -31,15 +31,15 @@ Html5, CSS, Javascript
 ## 주요 기능
 ### 인생 영화의 순위와 상세 정보 확인 기능
 <img src="https://github.com/user-attachments/assets/58e465bd-f719-420d-a518-c751e7b4e09e" height="350">
-<img src="https://github.com/user-attachments/assets/d1900a01-fe54-485b-9b64-066a86138eff" height="300">
-<img src="https://github.com/user-attachments/assets/e628da15-3265-4e74-80fa-b074ce8adbb6" height="400">
+<img src="https://github.com/user-attachments/assets/d1900a01-fe54-485b-9b64-066a86138eff" height="250">
+<img src="https://github.com/user-attachments/assets/e628da15-3265-4e74-80fa-b074ce8adbb6" height="450">
 
 ### 회원가입/로그인 기능
 <img src="https://github.com/user-attachments/assets/2dc001ae-2da5-4834-bc60-1b0688a7e550" height="350">
 <img src="https://github.com/user-attachments/assets/8dcb9cc9-ea52-4a57-ac6c-58d12d89d9a8" height="350">
 
 ### 영화 검색과 등록 기능
-<img src="https://github.com/user-attachments/assets/7256224a-76a0-43a3-90d1-e2369d7d5ce3" height="500">
+<img src="https://github.com/user-attachments/assets/7256224a-76a0-43a3-90d1-e2369d7d5ce3" height="600">
 
 ### 영화 정보를 나눌 게시판 기능
 
